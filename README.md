@@ -1,0 +1,2 @@
+# Equipo
+Componente Practico
